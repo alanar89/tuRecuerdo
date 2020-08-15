@@ -1,0 +1,1 @@
+"# tuRecuerdo"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/alanar89/tuRecuerdo.gitgit push -u origin master                
